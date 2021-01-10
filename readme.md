@@ -21,6 +21,7 @@ The page will reload if you make edits.
 - Redux
 - react-router
 - express
+- Node
 - firebase
 - Sass
 - webpack
